@@ -1,0 +1,26 @@
+pathosystem,subset,level,n_isolates,n_hosts,n_obs,host_pct,isolate_pct,ih_pct,ih_to_h,block_pct,leaf_resid_pct,f_ih_over_leaf,leaf_to_ih_var_ratio
+P. sojae,15 Rps differentials (raw % mortality),cell_mean_2way,455,15,6825,45.44,14.49,40.07,0.882,,,,
+P. sojae,15 Rps differentials (70% binary call),cell_mean_2way,455,15,6825,39.32,10.93,49.75,1.265,,,,
+P. sojae,34 replicated isolates (2 runs x 15 Rps),raw_replicate_4way,34,15,1016,32.1,19.0,34.58,1.077,0.0,14.31,2.668,1.199
+Z. tritici,PLACL (% leaf necrosis),cell_mean_2way,145,12,1740,29.52,26.12,44.35,1.502,,,,
+Z. tritici,PLACL (% leaf necrosis),raw_replicate_4way,145,12,11019,15.38,15.14,23.11,1.503,0.0,46.36,2.921,2.537
+Z. tritici,log1p(Pycnidia/cm2),cell_mean_2way,145,12,1740,53.31,12.64,34.05,0.639,,,,
+Z. tritici,log1p(Pycnidia/cm2),raw_replicate_4way,145,12,11019,33.0,9.21,24.37,0.738,0.0,33.42,4.273,1.489
+Z. tritici,Pycnidia/cm2 (raw),cell_mean_2way,145,12,1740,33.54,14.61,51.85,1.546,,,,
+Z. tritici,Pycnidia/cm2 (raw),raw_replicate_4way,145,12,11019,23.75,9.23,37.52,1.58,0.0,29.49,7.453,0.755
+B. cinerea,Brapa (12 genotypes),cell_mean_2way,98,12,1176,17.17,56.67,26.16,1.524,,,,
+B. cinerea,Brapa (blocked mixed-model refit),raw_replicate_blocked,98,12,6479,6.51,18.47,9.06,1.392,32.24,33.72,1.098,54.069
+B. cinerea,Cendivia (12 genotypes),cell_mean_2way,98,12,1176,5.86,74.43,19.71,3.361,,,,
+B. cinerea,Cendivia (blocked mixed-model refit),raw_replicate_blocked,98,12,6289,2.51,27.94,6.98,2.781,34.98,27.58,0.926,
+B. cinerea,Cintybus (12 genotypes),cell_mean_2way,98,12,1176,19.36,53.14,27.5,1.421,,,,
+B. cinerea,Cintybus (blocked mixed-model refit),raw_replicate_blocked,98,12,6132,7.53,16.67,8.45,1.122,37.16,30.2,0.982,
+B. cinerea,Glycine (12 genotypes),cell_mean_2way,96,12,1152,9.26,55.85,34.89,3.766,,,,
+B. cinerea,Glycine (blocked mixed-model refit),raw_replicate_blocked,96,12,5764,3.94,20.45,11.39,2.891,26.25,37.97,1.135,35.586
+B. cinerea,Helianthus (12 genotypes),cell_mean_2way,97,12,1164,15.02,65.91,19.07,1.269,,,,
+B. cinerea,Helianthus (blocked mixed-model refit),raw_replicate_blocked,97,12,6498,5.9,25.54,7.65,1.297,27.58,33.33,1.018,306.221
+B. cinerea,Lactuca (12 genotypes),cell_mean_2way,97,12,1164,19.9,39.71,40.39,2.03,,,,
+B. cinerea,Lactuca (blocked mixed-model refit),raw_replicate_blocked,97,12,5922,8.0,11.89,12.08,1.51,22.59,45.43,1.064,76.33
+B. cinerea,Solanum (12 genotypes),cell_mean_2way,96,12,1152,16.31,42.23,41.46,2.543,,,,
+B. cinerea,Solanum (blocked mixed-model refit),raw_replicate_blocked,96,12,5116,5.98,12.22,12.0,2.007,25.85,43.94,0.978,
+B. cinerea,7-crop mean (LSmeans),cell_mean_2way,98,84,8160,14.7,55.42,29.88,2.273,,,,
+B. cinerea,"7-crop mean (42,200 leaves, blocked)",raw_replicate_blocked,98,84,42200,5.77,19.03,9.66,1.857,29.52,36.02,1.029,65.2

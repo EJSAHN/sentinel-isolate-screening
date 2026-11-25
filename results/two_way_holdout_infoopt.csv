@@ -1,0 +1,91 @@
+pathosystem,trait,split_desc,m,strategy,regret,ci_lo,ci_hi,norm_regret,rho
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,1,Random,9.5416,8.8493,10.252,0.1319,0.6465
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,1,Q1_Low,9.0508,8.3553,9.7744,0.1253,0.6885
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,1,Q2Q3_Mid,8.7465,8.1266,9.3914,0.1209,0.6823
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,1,Q4_High,12.2515,11.2369,13.2508,0.1639,0.539
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,1,ExtremeTopM,27.7438,24.7464,31.1816,0.3673,0.1271
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,1,InfoOpt_IRT,5.8241,4.4353,7.2063,0.0807,0.6962
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,3,Random,5.0619,4.6049,5.5108,0.0681,0.7821
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,3,Q1_Low,5.379,4.8929,5.9928,0.0751,0.7925
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,3,Q2Q3_Mid,4.603,4.2164,5.0158,0.0628,0.7959
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,3,Q4_High,7.8568,6.7353,8.8051,0.1014,0.68
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,3,ExtremeTopM,25.9959,22.6741,29.4157,0.3342,0.29
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,3,InfoOpt_IRT,3.385,2.31,4.6492,0.046,0.8178
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,5,Random,3.7689,3.349,4.1453,0.0513,0.8337
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,5,Q1_Low,3.8017,3.323,4.2724,0.0537,0.8307
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,5,Q2Q3_Mid,3.6927,3.3378,4.0466,0.0506,0.8394
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,5,Q4_High,6.4028,5.432,7.5543,0.082,0.7423
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,5,ExtremeTopM,20.2312,17.0108,23.5727,0.2531,0.4267
+P. sojae,pct_susc,7_ref->8_eval_Rps x LOSO_3states,5,InfoOpt_IRT,2.6171,1.9926,3.3456,0.035,0.8506
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,1,Random,10.9648,10.312,11.5326,0.2173,0.4931
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,1,Q1_Low,12.3135,11.5326,13.1089,0.2434,0.4654
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,1,Q2Q3_Mid,10.9388,10.3686,11.5385,0.2149,0.4932
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,1,Q4_High,9.8899,9.1012,10.6002,0.1952,0.526
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,1,ExtremeTopM,15.0169,13.2783,16.8254,0.2811,0.3166
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,1,InfoOpt_IRT,9.77,8.3865,10.9295,0.1993,0.5269
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,3,Random,7.479,6.7818,7.99,0.158,0.6279
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,3,Q1_Low,8.4413,7.7283,9.0165,0.1773,0.5979
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,3,Q2Q3_Mid,8.171,7.5647,8.7911,0.1687,0.6119
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,3,Q4_High,7.0744,6.3982,7.7267,0.1476,0.6349
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,3,ExtremeTopM,6.8136,5.7362,7.8494,0.1392,0.674
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,3,InfoOpt_IRT,7.5662,6.3605,8.6637,0.1629,0.6046
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,5,Random,6.4017,5.7816,7.025,0.1292,0.697
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,5,Q1_Low,7.8769,7.1167,8.5841,0.16,0.6607
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,5,Q2Q3_Mid,6.9122,6.2819,7.5415,0.139,0.6863
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,5,Q4_High,6.136,5.4502,6.9041,0.1241,0.7053
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,5,ExtremeTopM,6.6163,5.5832,7.7354,0.1327,0.7
+Z. tritici,PLACL,6_ref->6_eval_cultivars x LORO_4regions,5,InfoOpt_IRT,6.9201,5.9197,8.0863,0.1413,0.6809
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,1,Random,0.3122,0.2828,0.3396,0.1278,0.6419
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,1,Q1_Low,0.3401,0.3113,0.3687,0.1382,0.616
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,1,Q2Q3_Mid,0.2759,0.2504,0.2988,0.1144,0.6625
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,1,Q4_High,0.3479,0.3171,0.3745,0.143,0.6085
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,1,ExtremeTopM,0.4774,0.4091,0.5422,0.1981,0.4417
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,1,InfoOpt_IRT,0.3005,0.249,0.3536,0.1267,0.681
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,3,Random,0.2401,0.2178,0.2659,0.1014,0.7101
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,3,Q1_Low,0.2113,0.1908,0.2317,0.0931,0.7355
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,3,Q2Q3_Mid,0.2212,0.1958,0.2448,0.0931,0.7221
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,3,Q4_High,0.3074,0.2728,0.3422,0.125,0.6503
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,3,ExtremeTopM,0.3476,0.3018,0.4004,0.1481,0.6017
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,3,InfoOpt_IRT,0.3011,0.2529,0.3493,0.122,0.6831
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,5,Random,0.1827,0.1594,0.2063,0.0763,0.754
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,5,Q1_Low,0.1583,0.1365,0.1783,0.0665,0.7848
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,5,Q2Q3_Mid,0.1832,0.1616,0.2079,0.0762,0.7555
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,5,Q4_High,0.2647,0.2345,0.2942,0.1061,0.6868
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,5,ExtremeTopM,0.2904,0.2478,0.3408,0.1177,0.6394
+Z. tritici,log1p_Pycnidia,6_ref->6_eval_cultivars x LORO_4regions,5,InfoOpt_IRT,0.2074,0.1733,0.2421,0.0868,0.7514
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),1,Random,0.1926,0.1722,0.2152,0.1926,0.5199
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),1,Q1_Low,0.2404,0.2179,0.2619,0.2404,0.4475
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),1,Q2Q3_Mid,0.1685,0.1459,0.1894,0.1685,0.5476
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),1,Q4_High,0.2038,0.1789,0.2247,0.2038,0.5018
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),1,ExtremeTopM,0.1308,0.093,0.1724,0.1308,0.5407
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),1,InfoOpt_IRT,0.1346,0.0877,0.1891,0.1346,0.6628
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),3,Random,0.105,0.0911,0.1202,0.105,0.7196
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),3,Q1_Low,0.1399,0.1173,0.1604,0.1399,0.6656
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),3,Q2Q3_Mid,0.0915,0.0721,0.1148,0.0915,0.738
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),3,Q4_High,0.1126,0.0953,0.1324,0.1126,0.6946
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),3,ExtremeTopM,0.1077,0.0693,0.1522,0.1077,0.6469
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),3,InfoOpt_IRT,0.0888,0.0573,0.1201,0.0888,0.7515
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),5,Random,0.075,0.0579,0.0909,0.075,0.7655
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),5,Q1_Low,0.0929,0.0745,0.1138,0.0929,0.7453
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),5,Q2Q3_Mid,0.0594,0.0438,0.0791,0.0594,0.7858
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),5,Q4_High,0.0978,0.0751,0.1229,0.0978,0.766
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),5,ExtremeTopM,0.1001,0.0634,0.1396,0.1001,0.7105
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_StrictAncestry),5,InfoOpt_IRT,0.0483,0.0205,0.0724,0.0483,0.78
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),1,Random,0.1986,0.1812,0.216,0.1986,0.5236
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),1,Q1_Low,0.2464,0.224,0.2692,0.2464,0.4563
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),1,Q2Q3_Mid,0.1752,0.157,0.1915,0.1752,0.5731
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),1,Q4_High,0.1537,0.1385,0.1706,0.1537,0.5605
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),1,ExtremeTopM,0.1426,0.1302,0.1538,0.1426,0.6345
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),1,InfoOpt_IRT,0.1731,0.1564,0.1907,0.1731,0.5811
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),3,Random,0.1097,0.0952,0.1229,0.1097,0.716
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),3,Q1_Low,0.1357,0.1188,0.1528,0.1357,0.6697
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),3,Q2Q3_Mid,0.112,0.0985,0.1261,0.112,0.7218
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),3,Q4_High,0.0917,0.08,0.1035,0.0917,0.7289
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),3,ExtremeTopM,0.0501,0.041,0.06,0.0501,0.7422
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),3,InfoOpt_IRT,0.0999,0.0876,0.1123,0.0999,0.7243
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),5,Random,0.0808,0.0697,0.0913,0.0808,0.7727
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),5,Q1_Low,0.0974,0.0843,0.1083,0.0974,0.7527
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),5,Q2Q3_Mid,0.0757,0.0644,0.0862,0.0757,0.7916
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),5,Q4_High,0.0654,0.0566,0.0741,0.0654,0.7895
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),5,ExtremeTopM,0.0445,0.0365,0.0527,0.0445,0.7927
+B. cinerea,lesion_lsmean,6_ref_crops->1_eval_crop (CrossCrop_Unseen50_50),5,InfoOpt_IRT,0.0618,0.0533,0.0696,0.0618,0.8148

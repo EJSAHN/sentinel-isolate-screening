@@ -1,0 +1,39 @@
+{
+  "seed": 20261124,
+  "m_grid": [
+    1,
+    2,
+    3,
+    5,
+    10,
+    20
+  ],
+  "m_virulence_grid": [
+    1,
+    2,
+    3,
+    5,
+    10
+  ],
+  "m_genomic_grid": [
+    1,
+    2,
+    3,
+    5,
+    10
+  ],
+  "k_grid": [
+    1,
+    2,
+    3
+  ],
+  "primary_k": 2,
+  "n_mc_psojae": 400,
+  "n_mc_zymo": 400,
+  "n_mc_botrytis_5050": 150,
+  "n_mc_botrytis_group": 120,
+  "n_split_host_psojae": 50,
+  "n_mantel_perm": 1000,
+  "n_sim_hosts": 200,
+  "n_sim_reps": 120
+}

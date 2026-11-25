@@ -1,0 +1,22 @@
+comparison,n_folds,base_mean,alt_mean,delta_mean,n_folds_alt_better,n_folds_tie,exact_sign_flip_p
+P. sojae Raw vs Bin70 (m=3) [Truth_MeanMort],3,14.3203,6.231,-8.0894,3,0,0.25
+P. sojae Logit vs Bin70 (m=3) [Truth_MeanMort],3,14.3203,5.7886,-8.5318,3,0,0.25
+P. sojae Raw vs Bin70 (m=5) [Truth_MeanMort],3,10.9113,4.5186,-6.3927,3,0,0.25
+P. sojae Raw m=5 vs Bin70 m=20 [Truth_MeanMort],3,4.6408,4.5186,-0.1222,2,0,0.75
+P. sojae Logit m=5 vs Bin70 m=20 [Truth_MeanMort],3,4.6408,4.0152,-0.6256,2,0,0.5
+P. sojae Raw vs Bin70 (m=3) [Truth_PropVir70],3,11.0032,4.942,-6.0612,3,0,0.25
+P. sojae Logit vs Bin70 (m=3) [Truth_PropVir70],3,11.0032,4.5859,-6.4173,3,0,0.25
+P. sojae Raw vs Bin70 (m=5) [Truth_PropVir70],3,8.2821,3.451,-4.8312,3,0,0.25
+P. sojae Raw m=5 vs Bin70 m=20 [Truth_PropVir70],3,3.428,3.451,0.0229,2,0,1.0
+P. sojae Logit m=5 vs Bin70 m=20 [Truth_PropVir70],3,3.428,3.0997,-0.3283,2,0,0.75
+P. sojae MultiState vs SingleField (exact m=3),3,8.605,6.2443,-2.3607,3,0,0.25
+P. sojae MultiState vs SingleField (exact m=5),3,6.8029,4.1831,-2.6198,3,0,0.25
+P. sojae MultiState vs SingleField (exact m=10),3,5.7819,2.3942,-3.3876,3,0,0.25
+"Z. tritici 4R Composite vs PLACL_only (m=3, target=PLACL)",4,0.2449,0.2248,-0.02,4,0,0.125
+"Z. tritici 4R Composite vs PLACL_only (m=3, target=log1p_Pycnidia)",4,0.1159,0.0988,-0.0171,4,0,0.125
+"Z. tritici 4R Composite vs PLACL_only (m=5, target=PLACL)",4,0.236,0.2168,-0.0192,4,0,0.125
+"Z. tritici 4R Composite vs PLACL_only (m=5, target=log1p_Pycnidia)",4,0.105,0.0911,-0.0139,4,0,0.125
+"Z. tritici 4R Composite vs PLACL_only (m=10, target=PLACL)",4,0.236,0.2204,-0.0156,4,0,0.125
+"Z. tritici 4R Composite vs PLACL_only (m=10, target=log1p_Pycnidia)",4,0.1023,0.092,-0.0103,4,0,0.125
+"Z. tritici 4R Composite vs PLACL_only (m=AllTrain, target=PLACL)",4,0.2068,0.1748,-0.032,1,2,1.0
+"Z. tritici 4R Composite vs PLACL_only (m=AllTrain, target=log1p_Pycnidia)",4,0.0943,0.0532,-0.0411,1,2,1.0
